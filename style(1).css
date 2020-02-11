@@ -1,0 +1,19 @@
+.flex {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .container {
+    height: 90vh;
+  }
+
+  li:hover {
+    cursor: pointer;
+  }
+  
+  ul{ list-style-type: none; }
+
+  body{
+    background-color: cornsilk;
+  }
