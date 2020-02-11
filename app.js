@@ -51,3 +51,4 @@ function addTable(){
     td1.innerHTML = userTypedText;
     tr.appendChild(td1);
 }
+    // Testing for uploading to github
