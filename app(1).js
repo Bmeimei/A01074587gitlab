@@ -73,6 +73,7 @@ function addMovie() {
 
         // Step 5: Insert the <li>Harry Potter</li> INTO the <ul>
         myMovieList.appendChild(li);
+        li.onclick = li.remove
     }
 
     // Insert movie into Object
