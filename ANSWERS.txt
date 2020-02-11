@@ -1,0 +1,24 @@
+// Connect git to the local file
+
+$ cd D:\github
+
+// Initialized empty Git repository 
+
+$ git init
+
+// Connect git bash to the responsibility of github
+
+$ git remote add origin git@github.com:Bmeimei/A01074587gitlab.git
+
+// Add files to git
+
+$ git add .
+
+// Commit files
+
+$ git commit -m"Testing uploading files to github"
+
+// Upload all files
+
+$ git push -u origin master
+
